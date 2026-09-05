@@ -1,0 +1,16 @@
+{
+    "framework_name": "Extended Open Source",
+    "acronym": "EOS",
+    "license": "EAGPL-1.0",
+    "is_standard_open_source": false,
+    "core_pillars": {
+        "rule_1_unmodified_use": "Viral reciprocity. Copying unmodified code forces the downstream project to open its source.",
+        "rule_2_paid_derivatives": "Absolute openness. Commercialized forks must make 100% of their source code public.",
+        "rule_3_attribution": "Mandatory upstream credit to the original human creator."
+    },
+    "target_loopholes_closed": [
+        "SaaS masking",
+        "Code plagiarism without contribution",
+        "Corporate monetization of individual labor"
+    ]
+}
